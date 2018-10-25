@@ -1,0 +1,64 @@
+LoginName,WorkspacesOption,Gadgets,UserGroup,UserName,WorkspaceCheckboxes,Email_Id,password,Role,UI Locale,Language,sortOptions,ClipboardActionMenuItem,ObjectName,Preview Data,End
+cypress2,Configuration Options,Users,Admin Group/Admin Group,CypressTestUser2,Admin,1@2.FU,qcteam,Administrator,Bahasa Indonesia (Indonesia),English,Login Name,Remove Page,Events,2 Objects (Page 2 of 2),End
+cypress3,Create new workspace…,Users,Admin,CypressTestUser3,Agrex Example,abc@gmail.com,qc team,Standard,English (United Kingdom),BG,User Name,Remove All,,(Page 0 of 0),End
+cypress13,Edit current workspace…,Users,Cypress UsersAdmin,admin_001,Configuration Options,abcd,,Viewer,,French,,,,,End
+,,,,admin2,CraigQA1,ad@gmail.com,,Supplier,,Test Child Language,,,,,End
+,,,,Opal,Workspace Editor Doc,cypress15@gmail.com,,,,Yorkshire,,,,,End
+,,,,CypressTestUser13,Craig QA General,cypress16@gmail.com,,,,Estonian,,,,,End
+cypress14,,,,CypressTestUser14,Datasheet Gadget,,,,,Korean,,,,,End
+cypress15,,,,CypressTestUser15,Default,,,,,Ripon,,,,,End
+cypress 16,,,,Cypress Test User16,Delete test,,,,,York,,,,,End
+cypress11,,,,cypressTestUser11,Error Space,,,,,Canadian French,,,,,End
+cypress10,,,,,Extended Search,,,,,,,,,,End
+,,,,,adfag,,,,,,,,,,End
+,,,,,File Uploader,,,,,,,,,,End
+,,,,,afgabfzf,,,,,,,,,,End
+,,,,,Image Librarian,,,,,,,,,,End
+,,,,,Lightbox,,,,,,,,,,End
+,,,,,No Edit Workspace,,,,,,,,,,End
+,,,,,NoGlobalEdit,,,,,,,,,,End
+,,,,,Object Workflow Bound,,,,,,,,,,End
+,,,,,PDF Attrib None,,,,,,,,,,End
+,,,,,PDF On Demand,,,,,,,,,,End
+,,,,,Preview Tab,,,,,,,,,,End
+,,,,,QA Asset,,,,,,,,,,End
+,,,,,QA Asset Editable,,,,,,,,,,End
+,,,,,QA Attribute Gadget,,,,,,,,,,End
+,,,,,QA AutoLogin,,,,,,,,,,End
+,,,,,QA Bound Group,,,,,,,,,,End
+,,,,,QA Browser Breadcrumb Test,,,,,,,,,,End
+,,,,,QA Browser Test,,,,,,,,,,End
+,,,,,QA Clipboard Test,,,,,,,,,,End
+,,,,,QA Datasheet Gadget,,,,,,,,,,End
+,,,,,QA Datasheet Gadget 2,,,,,,,,,,End
+,,,,,QA DatasheetWithFilters,,,,,,,,,,End
+,,,,,QA Favourites Gadget,,,,,,,,,,End
+,,,,,QA Grouped Attrs,,,,,,,,,,End
+,,,,,QA Index Gadget,,,,,,,,,,End
+,,,,,QA Instance Gadget,,,,,,,,,,End
+,,,,,QA One Bound Template,,,,,,,,,,End
+,,,,,QA PDF Gadget,,,,,,,,,,End
+,,,,,QA PDF Gadget2,,,,,,,,,,End
+,,,,,QA Price Gadget,,,,,,,,,,End
+,,,,,QA Search Gadget,,,,,,,,,,End
+,,,,,QA System Preferences,,,,,,,,,,End
+,,,,,QA Template Gadget Test,,,,,,,,,,End
+,,,,,QA Three Bound Templates,,,,,,,,,,End
+,,,,,QA ToDo Gadget,,,,,,,,,,End
+,,,,,QA Two Bound Templates,,,,,,,,,,End
+,,,,,QA Pentaho,,,,,,,,,,End
+,,,,,QA Relations,,,,,,,,,,End
+,,,,,QA Relations,,,,,,,,,,End
+,,,,,QA Relations With Browse,,,,,,,,,,End
+,,,,,QA To Do Gadget,,,,,,,,,,End
+,,,,,Resizeable Gadgets,,,,,,,,,,End
+,,,,,Tabbed Templates,,,,,,,,,,End
+,,,,,QA Template Gadget Test 2,,,,,,,,,,End
+,,,,,Test Asset,,,,,,,,,,End
+,,,,,Tooltip Workspace,,,,,,,,,,End
+,,,,,Two Browser Gadgets,,,,,,,,,,End
+,,,,,QA Working List Gadget,,,,,,,,,,End
+,,,,,,,,,,,,,,,End
+,,,,,WAVE-835 Test,,,,,,,,,,End
+,,,,,WAVE-836 Test,,,,,,,,,,End
+,,,,,WAVE-879 Test,,,,,,,,,,End
