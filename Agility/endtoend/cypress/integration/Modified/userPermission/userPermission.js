@@ -3,8 +3,8 @@ const changeDropdownUtils = require('../../../utils/changeDropdownUtils');
 const userUtils = require('../../../utils/userUtils');
 const genericUtils = require('../../../utils/genericUtils');
 
-describe('PermissionViewfunctionality', function () {
-    it('AMI:1928:73', function () {
+describe('PermissionViewfunctional', function () {
+    it('AMI-1', function () {
         
         //Retrieving test data
         var userName = genericUtils.csvFile('userData.csv', "LoginName", "value1");
@@ -54,7 +54,7 @@ describe('PermissionViewfunctionality', function () {
     });
 
 
-    it('AMI:1929:74', function () {
+    it('AMI-2', function () {
         //Data retrieving
         var userName = genericUtils.csvFile('userData.csv', "LoginName", "value1");
         var workspaceOption = genericUtils.csvFile('userData.csv', "WorkspacesOption", "value1");
@@ -103,7 +103,7 @@ describe('PermissionViewfunctionality', function () {
         cy.log('Successfully validated Create new workspace... option is present in  workspace dropdown');
     });
 
-    it('AMI:1930:75', function () {
+    it('AMI-3', function () {
 
         //Retrieving test data
         var userName = genericUtils.csvFile('userData.csv', "LoginName", "value1");
