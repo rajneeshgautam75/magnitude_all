@@ -2,7 +2,7 @@ const loginUtils = require('../../../utils/loginUtils');
 const changeDropdownUtils = require('../../../utils/changeDropdownUtils');
 const genericUtils = require('../../../utils/genericUtils');
 
-describe('User actions with Usergadgets section', function () {
+describe('UseractionswithUsergadgetssection', function () {
     it('AMI:1857:2', function () {
 
         //Retrieving test data
