@@ -3,7 +3,7 @@ const changeDropdownUtils = require('../../../utils/changeDropdownUtils');
 const userUtils = require('../../../utils/userUtils');
 const genericUtils = require('../../../utils/genericUtils');
 
-describe('Permission View functionality', function () {
+describe('PermissionViewfunctionality', function () {
     it('AMI:1928:73', function () {
         
         //Retrieving test data
