@@ -2,7 +2,7 @@ const loginUtils = require('../../../utils/loginUtils');
 const changeDropdownUtils = require('../../../utils/changeDropdownUtils');
 const genericUtils = require('../../../utils/genericUtils');
 
-describe('Clipboard functionality testcases', function () {
+describe('Clipboardfunctionalitytestcases', function () {
     it('AMI:743:1', function () {
 
         //Retrieving test data
